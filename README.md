@@ -1,5 +1,5 @@
 # oVirt Error-Codes-Analyzer
-Develop a Python AI (Artificial Intelligence) application that analyzes error codes from the oVirt Virtual Infrastructure and provides action items for resolving these errors.
+Develop a Python AI (Artificial Intelligence) Application that analyzes error codes from the oVirt Virtual Infrastructure and provides action items for resolving these errors.
 
 Error Code |	Variable Name | Description |	Type of Severity |	Action  
 
