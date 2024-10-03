@@ -4,3 +4,5 @@ Develop a Python AI (Artificial Intelligence) Application that analyzes error co
 Error Code |	Variable Name | Description |	Type of Severity |	Action  
 
 Source Code Repository: https://github.com/oVirt
+
+Note: This project has been abandoned due to a lack of manpower support.
